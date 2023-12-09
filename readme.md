@@ -1,5 +1,6 @@
-
 ## Hi there, I'm Istiuqe Ahmed Bhuiyan 👋
+<img src="/github_readme.png"/></a>
+
 
 ## About Me
 I am a web developer who is passionate about creating visually appealing, and functional web applications. I am a confident and self-assured individual who is always looking to learn new things and stay ahead of the curve.
