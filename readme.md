@@ -39,7 +39,7 @@ I am a web developer who is passionate about creating visually appealing, and fu
 <div align="center" >
 <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fakeistiak&theme=github_dark" width="32.5%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakeistiak&hide_progress=true&theme=dark" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fakeistiak&theme=github_dark" width="32.5%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fakeistiak&theme=github_dark&utcOffset=8" width="32.5%">
 </div>
 
